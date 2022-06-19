@@ -1,0 +1,34 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 600px;
+  height: auto;
+  padding: 44px;
+  background-color: blue;
+  color: white;
+  align-items: center;
+  border-radius: 10px;
+}
+
+.title {
+  text-align: center;
+}
+
+.input-text {
+  padding: 4px;
+  border: 2pxl;
+  border-color: green;
+  border-radius: 5px;
+}
+
+.submit-button {
+  margin-left: 4px;
+  padding: 4px;
+  background-color: white;
+  border-radius: 5px;
+}
+
+.input-container {
+  display: flex;
+  align-items: center;
+}
